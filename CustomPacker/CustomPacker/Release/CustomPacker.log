@@ -1,0 +1,10 @@
+﻿  CustomPacker.cpp
+C:\Users\roi\Desktop\projects\CustomPacker\CustomPacker\CustomPacker.cpp(23,17): warning C4244: 'başlatılıyor': 'std::streamoff' - 'size_t' dönüşümü; veri kaybı olabilir
+C:\Users\roi\Desktop\projects\CustomPacker\CustomPacker\CustomPacker.cpp(44,14): warning C4305: 'başlatılıyor': '__int64' iken 'char' olarak kesildi
+C:\Users\roi\Desktop\projects\CustomPacker\CustomPacker\CustomPacker.cpp(44,16): warning C4309: 'başlatılıyor': sabit değer kesildi
+  Kod üretiliyor
+  4 of 224 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  CustomPacker.vcxproj -> C:\Users\roi\Desktop\projects\CustomPacker\Release\CustomPacker.exe
