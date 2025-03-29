@@ -23,4 +23,4 @@ This program reads an executable file, encrypts it using the XOR encryption algo
 To compile the program, you can use a C++ compiler such as `g++` or `cl` (on Windows). Here is an example command using `g++`:
 
 ```bash
-g++ -o xor_encrypt_decrypt CustomPacker.cpp
+g++ -o CustomPacker CustomPacker.cpp
